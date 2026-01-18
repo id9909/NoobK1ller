@@ -1,0 +1,8 @@
+{
+    "Enable": true,
+    "EncryptData": true,
+    "EncryptKeys": true,
+    "StripMono": true,
+    "RenameSymbols": true,
+    "ClearBeeCache": false
+}

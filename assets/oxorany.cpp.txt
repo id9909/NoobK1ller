@@ -1,0 +1,13 @@
+#include "oxorany.h"
+
+namespace _lxy_oxor_any_ {
+    _lxy__size_t& X() {
+        static _lxy__size_t x = 0; 
+        return x;
+    }
+
+    _lxy__size_t& Y() {
+        static _lxy__size_t y = 0; 
+        return y;
+    }
+}
