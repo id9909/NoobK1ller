@@ -25,7 +25,7 @@ Import it into your Unity project and configure the protection settings before b
 ## Usage
 
 1. Import the package
-2. Open the config window via `Tools → Noob K1ller Config`
+2. Open the config window via `Tools → Noob K1ller сonfig`
 3. Select protection methods
 4. Build your Android IL2CPP project as usual
 
