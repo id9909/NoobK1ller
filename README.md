@@ -14,7 +14,7 @@ Adds oxorany obfuscation to all section decryption keys. Requires C++14. Reversi
 Randomizes all IL2CPP exported function names. Instead of `il2cpp_domain_get`, imports will look like `rTneAkhDlwQ`, breaking 99% of runtime dumpers.
 
 ### Strip Mono Symbols
-Removes unused Mono imports that hackers can use for runtime dumping.
+Removes unused Mono imports that can be used for runtime dumping.
 
 ## Installation
 
@@ -35,7 +35,7 @@ The protection is applied automatically during the build process.
 
 This is the lite version with basic protection. The full version includes additional layers and more runtime protection (such as IL2CPP API call verification).
 
-**Get the full version:** Contact me via any social link listed on my GitHub profile.
+**Get the full version:** Contact me via any social link listed on my GitHub profile or buy in [unity asset store](https://assetstore.unity.com/packages/tools/utilities/noobk1ller-metadata-encryption-345566).
 
 ## Requirements
 
