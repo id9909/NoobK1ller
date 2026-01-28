@@ -35,7 +35,7 @@ The protection is applied automatically during the build process.
 
 This is the lite version with basic protection. The full version includes additional layers and more runtime protection (such as IL2CPP API call verification).
 
-**Get the full version:** Contact me via any social link listed on my GitHub profile or buy in [unity asset store](https://assetstore.unity.com/packages/tools/utilities/noobk1ller-metadata-encryption-345566).
+**Get the full version:** Contact me via any social link listed on my GitHub profile.
 
 ## Requirements
 
